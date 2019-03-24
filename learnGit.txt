@@ -1,1 +1,3 @@
 This is the a txt for learnning Git.
+
+学习Git
