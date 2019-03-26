@@ -5,3 +5,4 @@ This is the a txt for learnning Git.
 第二次修改
 
 Git has a mutable index called stage.
+Git tracks changes.
